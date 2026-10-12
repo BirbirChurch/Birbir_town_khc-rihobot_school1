@@ -1,0 +1,8 @@
+{
+  "name": "የብርብር ከተማ ቃለ ሕይወት ርኆቦት ትምህርት ቤት ፖርታል",
+  "description": "የብርብር ከተማ ቃለ ሕይወት ርኆቦት መካከለኛና የመጀመሪያ ደረጃ ትምህርት ቤት የተሟላ የተማሪዎች፣ የመምህራን፣ የውጤት ማጠራቀሚያ፣ ሮስተር እና የወላጆች ፖርታል ስርዓት።",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
